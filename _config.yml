@@ -1,6 +1,6 @@
 name: ThorKlein
 favicon: null
-layout_spectrum: 0.12042
+layout_spectrum: 0.10588
 typography_spectrum: 0.36622513830661774
 title: 'writer & director'
 cta:
@@ -24,6 +24,6 @@ color:
     - '#966a47'
   brandStrength: 0
   lightness: 0.5625
-  saturation: 0.25
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
