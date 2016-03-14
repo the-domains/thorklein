@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-21T18:56:55.062Z'
-dateModified: '2016-02-21T10:42:59.628Z'
-title: "Filmstills\_"
+datePublished: '2016-03-14T12:07:14.138Z'
+dateModified: '2016-03-14T12:07:13.624Z'
+title: "Filmstills\_LOST PLACE"
 author: []
 sourcePath: _posts/2016-02-21-filmstills-lost-place.md
 published: true
@@ -22,9 +22,7 @@ url: filmstills-lost-place/index.html
 _type: Article
 
 ---
-# Filmstills 
-
-# LOST PLACE
+# Filmstills LOST PLACE
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d770976-684e-488c-b43c-e417b35491ae.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/751bb1a8-f6d1-42ce-a651-64b2b698a976.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59361436-661c-43de-bbcc-da850eaa2f7b.jpg)
